@@ -1,0 +1,9 @@
+# scripts/ es su propio repo con historia en github.com/onotechsv/linux-system-info-script
+# lo dejamos independiente para no romper esa historia
+scripts/
+
+# basura común
+*.swp
+.~lock*
+__pycache__/
+venv/
